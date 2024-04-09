@@ -8,4 +8,9 @@ const movies = [
     { id: 7, title: "Гладиатор ff", genre: "Экшн, Драма", year: 2000, director: "Ридли Скотт" },
     { id: 8, title: "Игра престолов gfsd", genre: "Драма, Фэнтези", year: 2011, director: "Дэвид Бениофф, Д.Б. Вайсс" }, // Несмотря на то, что это сериал, добавим для разнообразия
     { id: 9, title: "Джокер asd", genre: "Драма, Триллер", year: 2019, director: "Тодд Филлипс" },
+
 ];
+
+const config = 'user name';
+
+const r = 'f'
